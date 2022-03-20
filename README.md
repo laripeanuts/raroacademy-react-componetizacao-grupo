@@ -20,8 +20,6 @@ Projeto para estudar a transformação de código HTML (cujo layout está [aqui]
 
 O estudo faz parte da Imersão React, bootcamp da Raro Academy, onde são passados os fundamentos da programação front-end e como utilizar a biblioteca.
 
-Veja o repositório do curso [aqui](https://github.com/angelicaalbuquerque/react_raro-academy).
-
 ## 💻 Desenvolvimento
 
 Feito com 🖤 por:
