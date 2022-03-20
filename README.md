@@ -1,7 +1,38 @@
-## Componetizando um site
+<h2 align="center">
+  Component Maker | Raro Academy
+</h2>
 
-### Objeto é componetizar um site completo, como exercício em grupo de React para o curso da RaroAcademy
+<p align="center">
 
-Propomos abordar a resolução do desafio usando método Top-Down, aonde primeiro resolvemos implemantando de forma prioritária as tags mais gerais.
+<p align="center">
+<img alt="badge html" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/html.svg">
+<img alt="badge css" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/css.svg">
+<img alt="badge react" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/56834a01279853fcf3ce5c7bf058f217fb2be110/badges/badge-react.svg">
+<img alt="badge prettier" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/56834a01279853fcf3ce5c7bf058f217fb2be110/badges/prettier-2.svg">
+<img alt="badge vscode" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/visual-studio-code.svg">
+</p>
 
-![Referência](.ref/referencia.png)
+---
+
+## 📚 Sobre
+
+Projeto para estudar a transformação de código HTML (cujo layout está [aqui](https://raro-academy-react.web.app/#/aulas/lab_1?id=lab-1-component-maker)) em componentes semânticos e reutilizáveis com React.
+
+O estudo faz parte da Imersão React, bootcamp da Raro Academy, onde são passados os fundamentos da programação front-end e como utilizar a biblioteca.
+
+Veja o repositório do curso [aqui](https://github.com/angelicaalbuquerque/react_raro-academy).
+
+## 💻 Desenvolvimento
+
+Feito com 🖤 por:
+
+- [Gabriel Dantas](http://github.com/dantasfaria)
+- [Larissa Rabelo](https://github.com/laripeanuts)
+- [Laysa Viana](https://github.com/LaysaViana)
+- [Maria Angélica Albuquerque](https://github.com/angelicaalbuquerque/)
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/gif/hi.gif" width="25px"> 
+</p>
